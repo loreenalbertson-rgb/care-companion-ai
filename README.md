@@ -92,7 +92,7 @@ For severe, sudden, or life-threatening symptoms, call 911 or seek immediate med
 Clone the repository:
 
 ```bash
-git clone https://github.com/YOUR-USERNAME/care-companion-ai.git
+git clone https://github.com/loreenalbertson-rgb/care-companion-ai.git
 ```
 
 Move into the project folder:
